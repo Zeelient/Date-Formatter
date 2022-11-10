@@ -3,7 +3,6 @@
 // a date in the format mm/dd/yyyy. It should print the date
 // in the form March 12, 2014. Validate input.
 //
-// Name:Christina Kramer
 // Date:4/19/2022
 //
 #include <iostream>
